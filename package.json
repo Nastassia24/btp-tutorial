@@ -16,7 +16,7 @@
     "@sap/cds-hana": "^2",
     "@sap/xssec": "^3",
     "passport": "^0",
-    "@sap/cds-dk": "^7"
+    "@sap/cds-dk": "^8"
   },
   "devDependencies": {
     "@sap/ux-specification": "^1.120.9",
